@@ -1,0 +1,22 @@
+
+Please import the admission_predict data set as a dataframe.  
+Print the first 7 rows
+print the CGPA and LOR columns
+print the CGPA and LOR columns of the first 7 rows
+print out how many different(unique shool rankings exist)
+
+generate a new df with students having school rankings higher than or equal to 3
+generate a new df df with students where shool rankings is less than or equal to 2 and chance of admit is larger than 0.5
+
+write the indexes to a new column called old_indexes
+make the index as the joint index of school ranking and LOR 
+list those where school ranking is equal to 4
+list those with school ranking 3 and LOR is 3
+
+
+reset the indexes
+
+generate the index so that the schools are indexed as the 4.1, 4.2, 3.1, 3.2, 1.1,1.2,1.3,4.3,4.4
+that is the index goes like 1st school of ranking 4, the second school of ranking 4, the first school of ranking 3 
+
+
